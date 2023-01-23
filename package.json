@@ -1,5 +1,5 @@
 {
-  "name": "magnific-popup",
+  "name": "@philb74/magnific-popup",
   "version": "1.1.0",
   "title": "Magnific Popup",
   "description": "Lightbox and modal dialog plugin. Can display inline HTML, iframes (YouTube video, Vimeo, Google Maps), or an image gallery. Animation effects are added with CSS3 transitions. For jQuery or Zepto.",
@@ -18,11 +18,7 @@
     "responsive",
     "mobile"
   ],
-  "author": {
-    "name": "Dmitry Semenov",
-    "email": "diiiimaaaa@gmail.com",
-    "web": "http://dimsemenov.com"
-  },
+  "author": "Dmitry Semenov <diiiimaaaa@gmail.com> (http://dimsemenov.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dimsemenov/Magnific-Popup/issues"
@@ -50,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dimsemenov/Magnific-Popup.git"
+    "url": "git+https://github.com/dimsemenov/Magnific-Popup.git"
   }
 }
